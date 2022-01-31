@@ -4,7 +4,7 @@ This is My business card app made with flutter
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/i_am_rich/blob/main/images/Screenshot%202022-01-10%20094815.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/mi_card_flutter/blob/main/images/Screenshot%202022-02-01%20041655.png?raw=true)
 
 
 ##  My Profile Links
